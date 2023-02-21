@@ -32,7 +32,6 @@ Setting up a new macbook can be annoying. Here's a list of setting that I change
 - Screenshots - assign "clipboard" variants without ctrl (⌘⇧4 etc.)
 
 ### Trackpad
-- Tap to click - on
 - Tracking speed - 5th from right
 - More gestures - swipe between pages - off
 - More gestures - expose - on
@@ -64,6 +63,12 @@ Setting up a new macbook can be annoying. Here's a list of setting that I change
 - Show calls tab - off
 - Show icon in menu bar - off
 - Force touch action - edit
+
+### Data and Storage
+- Storage limit - 5gb
+
+## Activity monitor
+- View - Update Frequency - Very often
 
 ## Shell
 - `nano /etc/pam.d/sudo` -> Add `auth sufficient pam_tid.so` to the beginning to enable touch id auth for sudo.
