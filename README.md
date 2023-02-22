@@ -74,6 +74,7 @@ Setting up a new macbook can be annoying. Here's a list of setting that I change
 - `sudo nano /etc/pam.d/sudo` -> Add `auth sufficient pam_tid.so` to the beginning to enable touch id auth for sudo.
 - Install [brew](https://brew.sh/)
 - `brew install stats` (https://github.com/exelban/stats)
+- `curl https://getmic.ro | bash; sudo mv ./micro /usr/local/bin`
 
 ## Other apps
 - Install [Raycast](https://raycast.com) and transfer config
