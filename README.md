@@ -77,7 +77,8 @@ Setting up a new macbook can be annoying. Here's a list of setting that I change
 - `curl https://getmic.ro | bash; sudo mv ./micro /usr/local/bin` (https://micro-editor.github.io/)
 
 ## Other apps
-- Install [Raycast](https://raycast.com) and transfer config
-- Install [velja](https://apps.apple.com/ru/app/velja/id1607635845?l=en&mt=12)
-- Install [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases)
-- Install [Typography Layout](https://ilyabirman.ru/typography-layout/). How to remove default layout: [here](https://dev-postnov.ru/how-remove-the-default-keyboard-layout/)
+- [Raycast](https://raycast.com). transfer config
+- [velja](https://apps.apple.com/ru/app/velja/id1607635845?l=en&mt=12)
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases)
+- [Typography Layout](https://ilyabirman.ru/typography-layout/). How to remove default layout: [here](https://dev-postnov.ru/how-remove-the-default-keyboard-layout/)
+- [fnm](https://github.com/Schniz/fnm)
