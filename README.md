@@ -39,7 +39,7 @@ Setting up a new macbook can be annoying. Here's a list of setting that I change
 ### Battery
 - Slightly dim - off
 
-## [TinkerTool](http://www.bresink.com/osx/TinkerTool.html)
+## [TinkerTool](https://www.bresink.com/osx/TinkerTool.html)
 ### Dock
 - Disable delay
 - Minimizer effect - suck in
