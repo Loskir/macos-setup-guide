@@ -73,11 +73,11 @@ Setting up a new macbook can be annoying. Here's a list of setting that I change
 - View - Update Frequency - Very often
 
 ## Shell
-- `sudo nano /etc/pam.d/sudo` -> Add `auth sufficient pam_tid.so` to the beginning to enable touch id auth for sudo.
+- `sudo nano /etc/pam.d/sudo_local` -> Add `auth sufficient pam_tid.so` to the beginning to enable touch id auth for sudo.
 - Install [brew](https://brew.sh/)
 - `brew install stats` (https://github.com/exelban/stats)
-- `curl https://getmic.ro | bash; sudo mv ./micro /usr/local/bin` (https://micro-editor.github.io/)
-- Install [fnm](https://github.com/Schniz/fnm)
+- `brew install micro` (https://micro-editor.github.io/)
+- `brew install fnm` (https://github.com/Schniz/fnm)
 
 ### Disable input source switch popup on Sonoma
 
