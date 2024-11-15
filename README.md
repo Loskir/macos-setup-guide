@@ -3,17 +3,17 @@
 Setting up a new macbook can be annoying. Here's a list of setting that I change when configuring macOS.
 
 ## Settings
-### General
+### Appearance
 - Show scroll bars - when scrolling
 
 ### Desktop
 - Screen saver - Hot corners - off
 
-### Dock and menu bar
+### Desktop & Dock
 - Automatically hide and show - on
 - Show recent - off
 
-### Mission control
+#### Mission control
 - Automatically rearrange - off
 - When switching - off
 - Group windows - on
@@ -21,23 +21,25 @@ Setting up a new macbook can be annoying. Here's a list of setting that I change
 ### Keyboard
 - Key Repeat - fast
 - Delay - second shortest
-#### Text
+- Globe key — Do Nothing
+#### Keyboard Shortcuts
+- Spotlight - off (for Raycast)
+- Input sources - select previous - off
+- Input sources - select next - F13 (for Karabiner)
+- Screenshots - assign "clipboard" variants without ctrl (⌘⇧4 etc.)
+#### Text Input → Edit → All Input Sources
 - Correct spelling - off
 - Capitalize - off
-- Add period - off
-- Smart quotes - off
-#### Shortcuts
-- Spotlight - off (for Raycast)
-- Input sources - select previous - `ctrl+space`
-- Screenshots - assign "clipboard" variants without ctrl (⌘⇧4 etc.)
+- Add period with double-space - off
+- Use smart quotes and dashes - off
 
 ### Trackpad
 - Tracking speed - 5th from right
-- More gestures - swipe between pages - off
-- More gestures - expose - on
+- More gestures - swipe between pages - Off
+- More gestures - expose - Swipe Down with Three Fingers
 
 ### Battery
-- Slightly dim - off
+- Options... → Slightly dim - off
 
 ## [TinkerTool](https://www.bresink.com/osx/TinkerTool.html)
 ### Dock
@@ -50,7 +52,7 @@ Setting up a new macbook can be annoying. Here's a list of setting that I change
 
 ### Font Smoothing - off
 
-## Finder
+## Finder → Settings
 ### Sidebar
 - home dir - on
 ### Advanced
